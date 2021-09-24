@@ -1,0 +1,15 @@
+{
+  "name": "rabs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d website_rabs"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://shubhmak.github.io/webs",  
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
